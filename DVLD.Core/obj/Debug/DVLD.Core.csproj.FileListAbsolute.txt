@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\bin\Debug\DVLD.Core.dll
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\bin\Debug\DVLD.Core.pdb
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\bin\Debug\DVLD.Data.dll
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\bin\Debug\DVLD.Data.pdb
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\obj\Debug\DVLD.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\obj\Debug\DVLD.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\obj\Debug\DVLD.Core.csproj.Up2Date
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\obj\Debug\DVLD.Core.dll
+C:\Users\hp\Documents\My Workspace\programming-workspace\Programming_Advice_Roadmap\19 - Full Real Project\DVLD.Suite\DVLD.Core\obj\Debug\DVLD.Core.pdb
